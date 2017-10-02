@@ -7,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            Reproducible Assessment
 tagline:          'Using data science to inform the evaluation of student learning'
-description:      'The popular <a href="http://hyde.getpoole.com/" target="_blank">Hyde theme</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, now with instant-search capabilities. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a> and <a href="https://www.algolia.com/" target="_blank">Algolia</a>'
+description:      'Using data science to inform the evaluation of student learning.'
 url:              http://reproducibleassessment.com
 baseurl:          /
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
