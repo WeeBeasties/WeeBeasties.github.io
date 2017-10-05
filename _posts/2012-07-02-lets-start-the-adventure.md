@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Let's start the adventure
+category: Background
 author:
   login: nicolas
   email: nicolas@algolia.com
