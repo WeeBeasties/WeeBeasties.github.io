@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am testing to see if this about page will get indexed for the search engine by adding a unique string of words: cucumber, pineapple, and squash are foods.
+I am testing to see if this about page will get indexed for the search engine by adding a unique string of words: cucumber, pineapple, and squash are foods. New change again.
 
 At [Algolia][2], we love Jekyll, so we decided to provide an easy-to-use [Jekyll
 plugin][3] to add an awesome search to your blog.
