@@ -37,7 +37,7 @@ gems:
 algolia:
   application_id: 'latency'
   index_name: 'jekyll'
-  read_only_api_key: '2855afc86db35efd682e91595199e4a5'
+  read_only_api_key: '6e24a39ca0739c469813bf4b47128ce9'
   excluded_files:
     - 404.html
     - index.html
