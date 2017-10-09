@@ -52,7 +52,7 @@ allows to deliver search results across the US with less than 25 milliseconds of
 latency. This guarantees a seamless find-as-you-type experience on websites and
 mobile applications all across the US.
 
-[![dallas2][1]](https://blog.algolia.com/wp-content/uploads/2015/07/dallas2.jpg)
+[![dallas2][1]]
 
 ## Getting closer to additional infrastructure providers
 
