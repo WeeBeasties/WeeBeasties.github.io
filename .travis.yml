@@ -4,6 +4,6 @@ branches:
   only:
     - master
 script:
-  - ALGOLIA_API_KEY='2855afc86db35efd682e91595199e4a5' bundle exec jekyll algolia push
+  - ALGOLIA_API_KEY='6e24a39ca0739c469813bf4b47128ce9' bundle exec jekyll algolia push
 rvm:
  - 2.2
