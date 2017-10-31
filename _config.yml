@@ -17,6 +17,10 @@ exclude:          [vendor]
 author:
   name:           'Dr. Clifton Franklund'
   url:            http://reproducibleassessment.com/
+  twitter_username:	Dr_Franklund
+  github_username:	weebeasties
+  linkedin_username:	cliftonfranklund
+  google_plus_username:	clifton.franklund
 # Thanks to @mdo for the original theme
 # author:
 #   name:           'Clifton Franklund'
