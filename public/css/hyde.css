@@ -261,16 +261,15 @@ a.sidebar-nav-item:focus {
     position: absolute;
     top: 180px;
     right: 0;
-
-    a i {
+}
+a i {
     font-size: 3em;
     background-color: #f44336;
     color: white;
     padding: 14px 25px;
     text-decoration: none;
 
-        &:hover {
-            border-bottom: 1px dashed #fff;
-        }
+    &:hover {
+        border-bottom: 1px dashed #fff;
     }
 }
