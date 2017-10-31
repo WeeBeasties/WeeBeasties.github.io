@@ -264,7 +264,7 @@ a.sidebar-nav-item:focus {
 }
 .fa {
     font-size: 50pt;
-    background-color: #f44336;
+    background-color: #ac4142;
     color: white;
     padding: 16px 0;
     text-align: center;
@@ -273,6 +273,6 @@ a.sidebar-nav-item:focus {
     width: 50px;
     text-decoration: none;
 }
-.fa:hoover {
-	color: #999999;
+.fa:hover {
+	color: "gold";
 }
