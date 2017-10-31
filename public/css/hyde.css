@@ -263,6 +263,7 @@ a.sidebar-nav-item:focus {
     right: 0;
 
     a {
+    font-size: 20pt;
     background-color: #f44336;
     color: white;
     padding: 14px 25px;
