@@ -263,10 +263,10 @@ a.sidebar-nav-item:focus {
     right: 0;
 }
 .fa {
-    font-size: 4em;
+    font-size: 30pt;
     background-color: #f44336;
     color: white;
-    padding: 0px 0px;
+    padding: 20px 20px;
     border-radius: 50px;
     height: 50px;
     width: 50px;
