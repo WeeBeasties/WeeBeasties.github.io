@@ -258,7 +258,9 @@ a.sidebar-nav-item:focus {
 
 
 .share-page {
-    float: right;
+    position: relative;
+    top: 200px;
+    right: 0px;
 
     a {
     background-color: #f44336;
