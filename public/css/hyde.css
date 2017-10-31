@@ -266,7 +266,7 @@ a.sidebar-nav-item:focus {
     margin: 1.5 * $spacing-unit 0;
 
     a {
-        dsiplay: inline;
+        dsiplay: inline-block;
         border-radius: 25px;
     	background: #73AD21;
 	padding: 20px;
