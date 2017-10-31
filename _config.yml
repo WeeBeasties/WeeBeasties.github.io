@@ -10,6 +10,12 @@ tagline:          'Using the principles and practices of data science to inform 
 description:      'Using the principles and practices of data science to inform the evaluation of student learning'
 url:              http://reproducibleassessment.com
 baseurl:          /
+
+twitter_username:	Dr_Franklund
+github_username:	weebeasties
+linkedin_username:	cliftonfranklund
+google_plus_username:	clifton.franklund
+
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
 # otherwise Jekyll will try to build it (and fail)
 exclude:          [vendor]
@@ -17,10 +23,7 @@ exclude:          [vendor]
 author:
   name:           'Dr. Clifton Franklund'
   url:            http://reproducibleassessment.com/
-  twitter_username:	Dr_Franklund
-  github_username:	weebeasties
-  linkedin_username:	cliftonfranklund
-  google_plus_username:	clifton.franklund
+
 # Thanks to @mdo for the original theme
 # author:
 #   name:           'Clifton Franklund'
