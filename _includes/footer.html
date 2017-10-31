@@ -26,22 +26,3 @@
 <script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js"></script>
 <script src="//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js"></script>
 <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
-<table>
-	<tr>
-		{% if site.twitter_username %}
-  		<td><a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> Twitter</a></td>
-		{% endif %}
-
-		{% if site.github_username %}
-  		<td><a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a></td>
-		{% endif %}
-
-		{% if site.linkedin_username %}
-  		<td><a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i> LinkedIn</a></td>
-		{% endif %}
-
-		{% if site.google_plus_username %}
-  		<td><a href="https://plus.google.com/{{ site.google_plus_username }}"><i class="fa fa-google-plus"></i> Google+</a></td>
-		{% endif %}
-	</tr>
-</table>
