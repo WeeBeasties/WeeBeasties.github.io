@@ -266,11 +266,11 @@ a.sidebar-nav-item:focus {
     font-size: 20px;
     background-color: #ac4142;
     color: white;
-    padding: 16px 16px;
+    padding: 16px 0;
     text-align: center;
-    border-radius: 50px;
-    height: 35px;
-    width: 70px;
+    border-radius: 40px;
+    height: 40px;
+    width: 40px;
     line-height: 70px;
     text-decoration: none;
 }
