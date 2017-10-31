@@ -273,6 +273,6 @@ a.sidebar-nav-item:focus {
     width: 50px;
     text-decoration: none;
 }
-.fa:hover {
-	color: "gold";
+.fa i:hover {
+	color: #FFD700;
 }
