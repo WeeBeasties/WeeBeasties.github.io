@@ -266,14 +266,12 @@ a.sidebar-nav-item:focus {
     margin: 1.5 * $spacing-unit 0;
 
     a {
-        display: inline-block;
-        border-radius: 25px;
-    	background: #73AD21;
-	padding: 20px;
-    	width: 160px;
-    	height: 40px;
-        font-weight: 700;
-        color: #fff;
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 
         &:hover {
             border-bottom: 1px dashed #fff;
