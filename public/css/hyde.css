@@ -269,9 +269,9 @@ a.sidebar-nav-item:focus {
     padding: 16px 16px;
     text-align: center;
     border-radius: 50px;
-    height: 50px;
+    height: 40px;
     width: 50px;
-    line-height: 70px;
+    line-height: 60px;
     text-decoration: none;
 }
 .share-page a:hover {
