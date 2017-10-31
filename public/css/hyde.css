@@ -262,7 +262,7 @@ a.sidebar-nav-item:focus {
     top: 180px;
     right: 0;
 }
-a i {
+.fa {
     font-size: 3em;
     background-color: #f44336;
     color: white;
