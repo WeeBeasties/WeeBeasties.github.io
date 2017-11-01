@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
 I am testing to see if this about page will get indexed for the search engine by adding a unique string of words: cucumber, pineapple, and squash are foods. New change again. and again
