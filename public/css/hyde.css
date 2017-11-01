@@ -263,3 +263,13 @@ a.sidebar-nav-item:focus {
     right: 0;
     line-height: 0px;
 }
+.share-page img
+{
+opacity:0.6;
+filter:alpha(opacity=60);
+}
+.share-page img:hover
+{
+opacity:1.0;
+filter:alpha(opacity=100);
+}
