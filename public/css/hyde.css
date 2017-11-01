@@ -261,5 +261,5 @@ a.sidebar-nav-item:focus {
     position: absolute;
     top: 180px;
     right: 0;
-    line-height: 60px;
+    line-height: 5px;
 }
