@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Site use license
 ---
 # Released under MIT License
