@@ -8,7 +8,7 @@ My other areas of expetise include: cultivation and characterization of anaerobi
 
 **Website**: [http://franklund-micro.com](http://franklund-micro.com)   
 **LinkedIn**: [https://www.linkedin.com/in/cliftonfranklund/](https://www.linkedin.com/in/cliftonfranklund/)   
-**Open Science Framework: [https://osf.io/wbngx/](https://osf.io/wbngx/)   
+**Open Science Framework**: [https://osf.io/wbngx/](https://osf.io/wbngx/)   
 **GitHub**: [https://github.com/WeeBeasties](https://github.com/WeeBeasties)   
 **ORCID**: [http://orcid.org/0000-0003-4560-1806](http://orcid.org/0000-0003-4560-1806)   
 **VisualCV**: [https://www.visualcv.com/franklund](https://www.visualcv.com/franklund)   
