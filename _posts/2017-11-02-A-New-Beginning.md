@@ -2,6 +2,7 @@
 layout: post
 title: And so it begins
 category: Background
+comments: true
 author:
   login: clifton
   email: CliftonFranklund@ferris.edu
