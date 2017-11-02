@@ -40,7 +40,6 @@ github:
 # Algolia
 gems:
   - algoliasearch-jekyll
-  - jekyll-feed
 
 algolia:
   application_id: 'WRD04L05GK'
