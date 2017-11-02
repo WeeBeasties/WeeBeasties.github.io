@@ -265,6 +265,7 @@ a.sidebar-nav-item:focus {
 }
 .share-page img
 {
+padding-right: 5px;
 opacity:0.6;
 filter:alpha(opacity=60);
 }
