@@ -3,16 +3,11 @@ layout: page
 title: About me
 ---
 
-I am testing to see if this about page will get indexed for the search engine by adding a unique string of words: cucumber, pineapple, and squash are foods. New change again. and again
+<img src="/assets/franklund.jpg" align="right" script="padding: 10px;"> You should know from the start: I am a stubborn Swede. I'm curious, creative, and obsessive-compulsive. This combination of traits makes me an effective scientist and educator (and also gets me into no end of trouble). In addition to these roles, I am also integrally involved in the assessment of student learning and the revamping of the General Education program at Ferris State University. My involvement in assessment spans from the course-, program-, college-, and university-levels. I am keen to implement the processes and strategies of reproducible research to assessment at all levels. This blog is meant to journal some of my thoughts, experiences, and results from that journey. My other areas of expetise include: cultivation and characterization of anaerobic bacteria, bacterial genetics, bioinformatics, course assessment, computer programming, and online instruction. You can learn more about me online...
 
-At [Algolia][2], we love Jekyll, so we decided to provide an easy-to-use [Jekyll
-plugin][3] to add an awesome search to your blog.
-
-To make things even easier, we also [patched the Hyde theme][4] to give you an
-example.
-
-
-[1]: https://twitter.com/mdo
-[2]: https://www.algolia.com
-[3]: https://github.com/algolia/algoliasearch-jekyll
-[4]: https://github.com/algolia/algoliasearch-jekyll-hyde
+Website: [http://franklund-micro.com]
+LinkedIn: [https://www.linkedin.com/in/cliftonfranklund/]
+Open Science Framework: [https://osf.io/wbngx/]
+GitHub: [https://github.com/WeeBeasties]
+ORCID: [http://orcid.org/0000-0003-4560-1806]
+VisualCV: [https://www.visualcv.com/franklund]
