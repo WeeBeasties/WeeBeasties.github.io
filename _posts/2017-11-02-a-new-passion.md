@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Let's start the adventure
+title: A new beginning
 category: Background
 author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+  login: clifton
+  email: CliftonFranklund@ferris.edu
+  display_name: Clifton
+  first_name: Clifton
+  last_name: Franklund
 ---
 
-Welcome to The Algolia Blog! It's always difficult to write the first post of
-a blog! What should I talk about? The company, the founders, the business, the
+Welcome to the Reproducible Assessment blog! I am finding this first post to be a bit awkward to write. So I am just going to begin by sharing a little bit about my purposes for creating this site and describing what sorts of things that I plan to discuss here.   
+
+What should I talk about? The company, the founders, the business, the
 culture? And all that knowing that virtually nobody will read except diggers
 in a few years (hopefully)!
 
