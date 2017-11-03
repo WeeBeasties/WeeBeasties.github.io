@@ -8,7 +8,7 @@ A variety of assessment reports will be generated for the General Education prog
 ## Report Listing  
 
 |   Date   |        Post        |   Report   |  
-|----------|--------------------|------------|  
+|:--------:|:------------------:|:----------:|  
 |2017.11.03|        Test        |    Test    |  
 
 

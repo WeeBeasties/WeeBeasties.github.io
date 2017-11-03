@@ -8,7 +8,7 @@ A variety of digital resources will be created for the assessment of the General
 ## Resource Listing  
 
 |   Date   |      Resource      |    Link    |  
-|----------|--------------------|------------|  
+|:--------:|:------------------:|:----------:|  
 |2017.11.03|        Test        |    Test    |  
 
 
