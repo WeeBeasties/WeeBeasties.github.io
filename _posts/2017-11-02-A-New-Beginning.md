@@ -2,7 +2,7 @@
 layout: post
 title: And so it begins
 categories: [Background, Test]
-tags: Welcome
+tags: [Welcome]
 comments: true
 author:
   login: clifton
