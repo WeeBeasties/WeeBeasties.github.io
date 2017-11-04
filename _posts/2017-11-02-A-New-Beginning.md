@@ -1,7 +1,7 @@
 ---
 layout: post
 title: And so it begins
-category: Background, Test
+categories: [Background, Test]
 tags: Welcome
 comments: true
 author:
