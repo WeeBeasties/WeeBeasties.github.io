@@ -1,8 +1,7 @@
 ---
 layout: post
 title: And so it begins
-categories: [Background, Test]
-tags: [Welcome]
+categories: [Background, Philosophy]
 comments: true
 author:
   login: clifton
