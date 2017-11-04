@@ -258,8 +258,8 @@ a.sidebar-nav-item:focus {
 
 
 .share-page {
-    position: absolute;
-    top: 150px;
+    position: fixed;
+    top: 120px;
     right: 0;
     line-height: 0px;
 }
