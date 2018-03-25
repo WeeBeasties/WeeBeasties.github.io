@@ -27,7 +27,7 @@
 
 /*
  * Global resets
- *
+ * DECREASED FONT SIZES TO 14 (16) AND 16 (20)
  * Update the foundational and global aspects of the page.
  */
 
@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -51,6 +51,7 @@ html {
  *
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
+ * DECREASED FONT FROM 40 TO 36 ON H1
  */
 
 .sidebar {
@@ -80,7 +81,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Arial", sans-serif;
-  font-size: 40px;
+  font-size: 36px;
   text-align: center;
 }
 
