@@ -6,8 +6,8 @@ permalink:        pretty
 
 # Setup
 title:            Reproducible Assessment
-tagline:          'Using the principles and practices of data science to inform the evaluation of student learning'
-description:      'Using the principles and practices of data science to inform the evaluation of student learning'
+tagline:          ''
+description:      ''
 url:              http://reproducibleassessment.com
 baseurl:          /
 
