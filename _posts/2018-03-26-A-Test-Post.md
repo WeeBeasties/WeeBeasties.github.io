@@ -52,4 +52,4 @@ A table:
 [This is a link](http://www.ferris.edu)
 
 The quadratic equation, just for fun in MathJax
-$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
