@@ -38,9 +38,7 @@ github:
     repo:         https://github.com/weebeasties/weebeasties.github.io
 
 # Algolia
-gems:
-  - algoliasearch-jekyll
-  - jekyll-mermaid
+gems:  [algoliasearch-jekyll, jekyll-mermaid]
 
 algolia:
   application_id: 'WRD04L05GK'
