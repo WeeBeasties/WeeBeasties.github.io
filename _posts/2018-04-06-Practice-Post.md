@@ -23,19 +23,11 @@ That should be enough for now.
 
 Adding a little mermaid code too:
 
-{% mermaid %}
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-{% endmermaid %}
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+```mermaid   
+graph TD;   
+    A-->B;   
+    A-->C;   
+    B-->D;   
+    C-->D;   
+```   
 
