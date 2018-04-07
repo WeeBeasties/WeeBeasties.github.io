@@ -15,7 +15,7 @@ published: true
 
 This is a first try at using ```Gabriel``` to create a practice _Jekyll_ post for my **Reproducible Assessment** blog.  
 
-I will have to see how this works out. Here is a formula to check out the ability to move $ \LaTeX $ code into posts as well. This seems to work ok to put symbols inline like alpha ($ \alpha $) and others. 
+I will have to see how this works out. Here is a formula to check out the ability to move $$ \LaTeX $$ code into posts as well. This seems to work ok to put symbols inline like alpha ($$ \alpha $$) and others. 
 
 $$ \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$  
 
