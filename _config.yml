@@ -41,7 +41,7 @@ github:
 gems:  [algoliasearch-jekyll, jekyll-mermaid]
 
 mermaid:
-  src: 'https://github.com/knsv/mermaid/blob/master/src/mermaid.js'
+  src: 'https://cdn.rawgit.com/knsv/mermaid/0.3.2/dist/mermaid.full.min.js'
 
 algolia:
   application_id: 'WRD04L05GK'
