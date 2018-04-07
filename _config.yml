@@ -38,7 +38,9 @@ github:
     repo:         https://github.com/weebeasties/weebeasties.github.io
 
 # Algolia
-gems:  [algoliasearch-jekyll, jekyll-mermaid]
+gems:
+  - algoliasearch-jekyll
+  - jekyll-mermaid
 
 mermaid:
   src: 'https://cdn.rawgit.com/knsv/mermaid/0.3.2/dist/mermaid.full.min.js'
