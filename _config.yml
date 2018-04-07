@@ -40,6 +40,9 @@ github:
 # Algolia
 gems:  [algoliasearch-jekyll, jekyll-mermaid]
 
+mermaid:
+  src: 'https://github.com/knsv/mermaid/blob/master/src/mermaid.js'
+
 algolia:
   application_id: 'WRD04L05GK'
   index_name: 'reproducibleassessment'
