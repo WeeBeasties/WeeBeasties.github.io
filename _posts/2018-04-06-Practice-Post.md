@@ -23,7 +23,7 @@ That should be enough for now.
 
 Adding a little mermaid code too:
 
-```mermaid  
+{% mermaid %}
 
 gantt
         dateFormat  YYYY-MM-DD
@@ -40,6 +40,6 @@ gantt
         Future task in critical line        :crit, 5d
         Create tests for renderer           :2d
         Add to mermaid                      :1d   
-
-```
+        
+{% endmermaid %}
 
