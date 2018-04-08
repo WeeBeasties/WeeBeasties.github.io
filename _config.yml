@@ -40,7 +40,7 @@ github:
 # Algolia
 gems:
   - algoliasearch-jekyll
-  - jekyll-mermaid
+#  - jekyll-mermaid
 
 #mermaid:
   src: '/js/mermaid.js'
