@@ -32,3 +32,14 @@ C -->|Two| E[iPhone 6s]
 C -->|Three| F[Cheap Car]   
 </div>
 
+```mermaid   
+graph TD   
+  A[Christmas] -->|Get money| B(Go shopping)   
+  B --> C{Let me think again}   
+  C -->|One| D[Laptop computer]   
+  C -->|Two| E[iPhone 6s]   
+  C -->|Three| F[Cheap Car]   
+```  
+
+
+
