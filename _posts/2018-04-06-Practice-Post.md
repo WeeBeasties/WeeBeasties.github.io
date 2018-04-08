@@ -23,11 +23,11 @@ That should be enough for now.
 
 Adding a little mermaid code too:
 
-```mermaid   
+<div class="mermaid">  
 graph TD;   
     A-->B;   
     A-->C;   
     B-->D;   
     C-->D;   
-```   
+</div>
 
