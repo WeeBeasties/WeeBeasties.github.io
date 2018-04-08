@@ -2,10 +2,10 @@
  * Web page integration module for the mermaid framework. It uses the mermaidAPI for mermaid functionality and to render
  * the diagrams to svg code.
  */
-import he from 'he';
+import he from 'he'
 
-import mermaidAPI from './mermaidAPI';
-import { logger } from './logger';
+import mermaidAPI from './mermaidAPI'
+import { logger } from './logger'
 
 /**
  * ## init
