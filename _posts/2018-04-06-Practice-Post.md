@@ -21,7 +21,7 @@ $$ \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 That should be enough for now.   
 
-Adding a little mermaid code too:
+Adding a little mermaid code too (see if this updates):
 
 <div class="mermaid">  
 graph TD;   
