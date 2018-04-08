@@ -42,7 +42,7 @@ gems:
   - algoliasearch-jekyll
 #  - jekyll-mermaid
 
-#mermaid:
+mermaid:
   src: '/js/mermaid.js'
 #  src_config: '/public/js/mermaid_config.js'
 
