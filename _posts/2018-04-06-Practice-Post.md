@@ -26,9 +26,9 @@ Adding a little mermaid code too (see if this updates):
 <div class="mermaid">  
 graph TD   
 A[Christmas] -->|Get money| B(Go shopping)   
-B --> C{Let me think}   
-C -->|One| D[Laptop]   
-C -->|Two| E[iPhone]   
-C -->|Three| F[Car]   
+B --> C{Let me think again}   
+C -->|One| D[Laptop computer]   
+C -->|Two| E[iPhone 6s]   
+C -->|Three| F[Cheap Car]   
 </div>
 
