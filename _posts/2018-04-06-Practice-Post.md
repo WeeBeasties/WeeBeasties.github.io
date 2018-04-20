@@ -25,9 +25,6 @@ Adding a little mermaid code too in order to try out a simple chart:
 
 <div class="mermaid">  
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Start --> Stop;
 </div>
 
