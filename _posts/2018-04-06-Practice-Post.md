@@ -21,21 +21,13 @@ $$ \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 That should be enough for now.   
 
-Adding a little mermaid code too in order to try out a simple Gantt chart:
+Adding a little mermaid code too in order to try out a simple chart:
 
 <div class="mermaid">  
-
-graph TB
-    c1-->a2
-    subgraph one
-    a1-->a2
-    end
-    subgraph two
-    b1-->b2
-    end
-    subgraph three
-    c1-->c2
-    end
-
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 </div>
 
