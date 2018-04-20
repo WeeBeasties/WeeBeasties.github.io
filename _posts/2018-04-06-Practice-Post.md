@@ -35,24 +35,3 @@ Future task               :         des3, after des2, 5d
 Future task2              :         des4, after des3, 5d  
 </div>
 
-I also want to try out a git graph:
-
-<div class="mermaid">
-gitGraph:
-options
-{
-    "nodeSpacing": 150,
-    "nodeRadius": 10
-}
-end
-commit
-branch newbranch
-checkout newbranch
-commit
-commit
-checkout master
-commit
-commit
-merge newbranch
-</div>
-
