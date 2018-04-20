@@ -26,31 +26,33 @@ Adding a little mermaid code too in order to try out a simple Gantt chart:
 <div class="mermaid">  
 gantt
 dateFormat  YYYY-MM-DD
-title Adding GANTT diagram functionality to mermaid
-  section A section
-  Completed task  :done,    des1, 2014-01-06,2014-01-08
-  Active task     :active,  des2, 2014-01-09, 3d
-  Future task     :         des3, after des2, 5d
-  Future task2    :         des4, after des3, 5d  
+title Adding GANTT diagram to mermaid
+
+section A section
+Completed task            :done,    des1, 2014-01-06,2014-01-08
+Active task               :active,  des2, 2014-01-09, 3d
+Future task               :         des3, after des2, 5d
+Future task2              :         des4, after des3, 5d  
 </div>
 
 I also want to try out a git graph:
+
 <div class="mermaid">
 gitGraph:
-   options
-      {
-         "nodeSpacing": 150,
-         "nodeRadius": 10
-      }
-   end
-   commit
-   branch newbranch
-   checkout newbranch
-   commit
-   commit
-   checkout master
-   commit
-   commit
-   merge newbranch
+options
+{
+    "nodeSpacing": 150,
+    "nodeRadius": 10
+}
+end
+commit
+branch newbranch
+checkout newbranch
+commit
+commit
+checkout master
+commit
+commit
+merge newbranch
 </div>
 
