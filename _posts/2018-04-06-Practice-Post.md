@@ -3,6 +3,7 @@ title: Practice Post
 layout: post
 author: clifton.franklund
 permalink: /practice-post/
+categories: [Practice, Google Doc, Gabriel, Mermaid]
 tags:
 - practice
 - google doc
