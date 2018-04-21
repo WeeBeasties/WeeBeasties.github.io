@@ -24,7 +24,14 @@ That should be enough for now.
 Adding a little mermaid code too in order to try out a simple chart:
 
 <div class="mermaid">  
-graph TD;
-    Start --> Stop;
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    another task      : 24d
 </div>
 
