@@ -24,8 +24,16 @@ That should be enough for now.
 Adding a little mermaid code too in order to try out a simple chart:
 
 <div class="mermaid">  
-sequenceDiagram
-    Alice->>+John: Hello John, how are you?
-    John-->>-Alice: Great!
+graph TB
+    c1==>a2
+    subgraph one
+    a1==>a2
+    end
+    subgraph two
+    b1==>b2
+    end
+    subgraph three
+    c1==>c2
+    end
 </div>
 
