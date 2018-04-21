@@ -39,9 +39,9 @@ sequenceDiagram
 
 </div>
 
-<div class="mermaid">
-
 This is a Gantt chart, but I'm still fighting with the styling...
+
+<div class="mermaid">
 
 gantt
 dateFormat  YYYY-MM-DD
