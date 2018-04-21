@@ -44,7 +44,7 @@ This is a Gantt chart, but I'm still fighting with the styling...
 <div class="mermaid">
 
 gantt
-    title A Gantt Diagram
+    title A New Gantt Diagram
     dateFormat  YYYY-MM-DD
     section Section
     A task           :a1, 2014-01-01, 30d
