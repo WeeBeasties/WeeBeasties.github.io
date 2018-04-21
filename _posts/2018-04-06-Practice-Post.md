@@ -45,7 +45,7 @@ This is a Gantt chart, but I'm still fighting with the styling...
 
 gantt
 dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
+title Modified GANTT diagram from mermaid
 
 section A section
 Completed task            :done,    des1, 2014-01-06,2014-01-08
