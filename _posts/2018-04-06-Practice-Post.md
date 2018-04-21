@@ -43,34 +43,14 @@ This is a Gantt chart, but I'm still fighting with the styling...
 
 <div class="mermaid">
 
-gantt  
-        dateFormat  YYYY-MM-DD
-        title <Name of the project>
-
-%%	<Name of Activity>		: crit if critical else empty,done, active or empty, reference name or empty, Start Date or dependency, End Date or Duration
-        section Phase 1 Name
-        Activity 1			:	 done,    des1, 2017-01-06, 2017-01-08
-        Activity 2               	:	 active,  des2, 2017-01-09, 2017-01-12
-        Activity 3               	:        	  des3, 2017-01-12, 5d
-        Activity 4              	:         	  des4, after des3, 5d
-
-        section Phase 2 Name
-        Activity 5 			: crit, done,		2017-01-06, 24h
-        Activity 6		        : crit, done, 		after des1, 2d
-        Activity 7		        : crit, active, 		    3d
-        Activity 8			: crit,			 	    5d
-        Activity 9			:			 	    2d
-        Activity 10			: 			 	    1d
-
-        section Phase 3 Name
-        Activity 11			: 	active,   a1,	after des1, 3d
-        Activity 12			:			after a1  , 20h
-        Activity 13			:		 doc1, 	after a1  , 48h
-
-        section Phase 4 Name
-        Activity 12			:			after doc1, 3d
-        Activity 15			: 	  			    20h
-        Activity 16			: 			   	    48h
-
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    another task      : 24d
 </div>
 
